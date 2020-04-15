@@ -1,9 +1,11 @@
 # Deep Learning Specialisation
-Instructor: [Andrew Ng](http://www.andrewng.org/)
+[Coursera](https://www.coursera.org/specializations/deep-learning?)
+![alt text](logo.png)
 
-This repository contains all the solutions of the programming assignments along with few output images. It also has some of the important papers which are referred during the course. 
+ 
 
-**NOTE :** Use the solutions only for reference purpose :)
+
+[summary](https://github.com/yerdaulet1991/Deep-learning-specialization/blob/master/andrew_ng.pdf)
 
 This specialisation has five courses. 
 
@@ -76,16 +78,9 @@ This specialisation has five courses.
    5. [Week2 - Programming Assignment 2 - Emojify](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Sequence%20Models/Week2/Emojify%2B-%2Bv2.ipynb)
    6. [Week3 - Programming Assignment 1 - Neural Machine translation with attention](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Sequence%20Models/Week3/Neural%2Bmachine%2Btranslation%2Bwith%2Battention%2B-%2Bv3.ipynb)
    7. [Week3 - Programming Assignment 2 - Trigger word detection](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Sequence%20Models/Week3/Trigger%2Bword%2Bdetection%2B-%2Bv1.ipynb)
-   
- ## IMPORTANT PAPERS
+  
  
- 1. [AlexNet](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Papers/AlexNet.pdf)
- 2. [VGG](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Papers/VGG.pdf)
- 3. [Inception](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Papers/Inception.pdf)
- 4. [ResNet](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Papers/ResNet.pdf)
- 5. [YOLO](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Papers/YOLO.pdf)
- 6. [YOLO9000](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Papers/YOLO9000.pdf)
- 7. [DeepFace](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Papers/DeepFace.pdf)
- 8. [FaceNet](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Papers/FaceNet.pdf)
- 9. [Neural Style Transfer](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Papers/Neural_style_transfer.pdf)
+   
+ 
+![certificate](certificate.png)
   
